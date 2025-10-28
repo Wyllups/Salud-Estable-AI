@@ -62,7 +62,7 @@ Proyecto: **SaludEstable AI – Inteligencia Financiera para un Sistema de Salud
 
 ---
 
-## ⚖️ Licencia
+##  Licencia
 
 Estos datos son de **uso libre y educativo**, publicados bajo licencia **MIT**.  
 Se permite su uso, copia y adaptación siempre que se mencione la fuente original del proyecto.
