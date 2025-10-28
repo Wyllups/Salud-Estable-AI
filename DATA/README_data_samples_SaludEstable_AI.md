@@ -1,10 +1,10 @@
-# 📊 Datos de Ejemplo – SaludEstable AI
+#  Datos de Ejemplo – SaludEstable AI
 
 Esta carpeta contiene **archivos de ejemplo** utilizados por la aplicación **SaludEstable AI** para demostrar el análisis automatizado del riesgo financiero en entidades de salud colombianas.
 
 ---
 
-## 🏥 ¿Qué son las EPS e IPS?
+##  ¿Qué son las EPS e IPS?
 
 - **EPS (Entidades Promotoras de Salud)**:  
   Son instituciones encargadas de **afiliar a los ciudadanos al sistema de salud** y **administrar los recursos** destinados a la atención médica.  
@@ -20,17 +20,13 @@ En conjunto, las EPS **gestionan los fondos** y las IPS **prestan los servicios*
 
 ## 📄 Origen de los datos
 
-Los datos incluidos en esta carpeta provienen de **fuentes públicas y datos simulados** con fines educativos y demostrativos.  
+Los datos incluidos en esta carpeta provienen de con fines educativos y demostrativos.  
 Entre las fuentes utilizadas están:
 
 - 📘 **Superintendencia Nacional de Salud (Supersalud)** — reportes públicos de estados financieros y gestión de EPS/IPS.  
   [https://www.supersalud.gov.co](https://www.supersalud.gov.co)
 - 📊 **Ministerio de Salud y Protección Social** — información estadística del sistema general de seguridad social en salud.  
   [https://www.minsalud.gov.co](https://www.minsalud.gov.co)
-- 📁 **Datos simulados** generados por el autor para pruebas del modelo y demostraciones interactivas en Streamlit.
-
-> ⚠️ **Importante:** Los archivos incluidos no representan información confidencial ni datos financieros reales de entidades específicas.  
-> Su propósito es únicamente **mostrar el funcionamiento del algoritmo de análisis y visualización** de la aplicación.
 
 ---
 
