@@ -1,25 +1,25 @@
-# 💊 SaludEstable AI
+## SaludEstable AI
 
 **SaludEstable AI** es una aplicación desarrollada con **Streamlit** para la **evaluación y predicción automatizada del riesgo financiero** en entidades de salud colombianas (**EPS / IPS**).  
 Analiza archivos contables en formato Excel, detecta columnas automáticamente, calcula indicadores financieros clave y clasifica el nivel de riesgo de cada entidad mediante un modelo ponderado y normalizado por percentiles.
 
 ---
 
-## 🚀 Características principales
+## Características principales
 
-- 📂 **Carga múltiple de archivos Excel** (`.xlsx`, `.xls`, `.csv`)
-- 🤖 **Detección automática** de columnas relevantes (`Entidad`, `Denominación`, `Valor`)
-- 📊 **Cálculo inteligente de indicadores financieros:**
+-  **Carga múltiple de archivos Excel** (`.xlsx`, `.xls`, `.csv`)
+-  **Detección automática** de columnas relevantes (`Entidad`, `Denominación`, `Valor`)
+-  **Cálculo inteligente de indicadores financieros:**
   - Liquidez Corriente  
   - Endeudamiento Total  
   - Margen Neto  
   - ROA (Rentabilidad sobre Activos)  
   - Rotación de Activos
-- ⚙️ **Normalización automática** de métricas mediante percentiles
-- 🧮 **Evaluación global ponderada** de riesgo financiero
-- 🧠 **Predicción de tendencia financiera** (Mejora, Estable o Riesgo)
-- 🎨 **Visualización dinámica** con gráficos interactivos de Plotly
-- 💾 **Descarga de resultados completos** en Excel
+-  **Normalización automática** de métricas mediante percentiles
+-  **Evaluación global ponderada** de riesgo financiero
+-  **Predicción de tendencia financiera** (Mejora, Estable o Riesgo)
+-  **Visualización dinámica** con gráficos interactivos de Plotly
+-  **Descarga de resultados completos** en Excel
 
 ---
 
@@ -69,7 +69,7 @@ Luego abre tu navegador y visita 👉 **http://localhost:8501**
 
 ---
 
-## 📦 Dependencias principales
+##  Dependencias principales
 
 - **streamlit** → interfaz interactiva  
 - **pandas / numpy** → manipulación y análisis de datos  
@@ -80,7 +80,7 @@ Luego abre tu navegador y visita 👉 **http://localhost:8501**
 
 ---
 
-## 🧩 Lógica de evaluación de riesgo
+##  Lógica de evaluación de riesgo
 
 Cada entidad es evaluada mediante un **índice ponderado de riesgo global (0–100)**.  
 Los factores y sus pesos por defecto son:
@@ -135,7 +135,7 @@ Resultados_SaludEstableAI_Full.xlsx
 
 ---
 
-## 🧠 Ideas de mejora (roadmap)
+##  Ideas de mejora (roadmap)
 
 - [ ] Añadir un modelo predictivo basado en **Machine Learning** (árbol de decisión o regresión logística)
 - [ ] Permitir ajuste manual de pesos (`FACTORES_RIESGO`) desde la interfaz
@@ -144,12 +144,12 @@ Resultados_SaludEstableAI_Full.xlsx
 
 ---
 
-## 👨‍💻 Autor
+## 📄 Derechos de Autor
 
-**Wilfredo Calderón Pérez**  
-📍 Colombia  
-📧 [wilfredocalderonperez@gmail.com](mailto:wilfredocalderonperez@gmail.com)  
-💼 Diseño arquitectónico, planos técnicos y desarrollo de apps  
+© 2025 Wilfredo López. Todos los derechos reservados.
+Este proyecto, SaludEstable AI, y su código fuente están protegidos bajo licencia de uso académico y no comercial.
+Queda prohibida su reproducción, distribución o modificación sin autorización expresa del autor.
+Para colaboraciones o permisos de uso, contactar a: [tu correo o perfil de GitHub].
 
 ---
 
